@@ -54,6 +54,16 @@ const projectList = [
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
+  {
+    title: "Azure Static Web Apps",
+    description:
+      "Video interview to explain the benefits of Azure Static Web Apps and how to get started.",
+    url: "https://www.youtube.com/watch?v=7gJpj9aYn4Y",
+  },
+  { title: "Spring Boot Web App",
+    description: "A simple web app using Spring Boot and Thymeleaf.",
+    url: "https://www.github.com/Manuel9593/"
+  },
 ];
 
 const Portfolio = () => {
